@@ -6,5 +6,7 @@
             "email": "eason12326@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
 }
